@@ -1,0 +1,15 @@
+import Link from "next/link";
+
+
+
+const About = ()=>{
+    return(
+        <div>
+            <h1>about page.</h1>
+        
+        </div>
+    )
+
+}
+export default About;
+
